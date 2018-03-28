@@ -1040,6 +1040,7 @@ AWS Guides:
 
 Community Guides:
 
+* [Sending Confirmation Emails with Flask, Redis Queue, and Amazon SES](https://testdriven.io/sending-confirmation-emails-with-flask-rq-and-ses) - Send confirmation emails in your Flask app easily with this tutorial.
 * [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
 
 ### General Guides
